@@ -1,0 +1,13 @@
+ID,Judul,Penulis,Tahun,Kategori,Bahasa,Format,File,Jumlah_Halaman,Deskripsi
+E001,Nineteen Eighty-Four,George Orwell,1949,Novel distopia,Bahasa Inggris,PDF,ebook/9.-Nineteen-Eighty-Four-Author-George-Orwell.pdf,174,"Novel tentang pengawasan negara, kontrol informasi, dan kebebasan individu."
+E002,Pengamatan Usaha UMKM: Jasuke (Jagung Susu Keju),Naufal Zain,2026,Kewirausahaan,Bahasa Indonesia,PDF,ebook/Kewirausahaan.pdf,2,Dokumen tugas pengamatan usaha UMKM untuk mata kuliah Kewirausahaan.
+E003,Peraturan Menteri Keuangan Republik Indonesia Nomor 128/PMK.01/2015,Menteri Keuangan Republik Indonesia,2015,Peraturan,Bahasa Indonesia,PDF,ebook/Peraturan Menteri.pdf,24,Dokumen peraturan Menteri Keuangan Republik Indonesia.
+E004,A Tale of Two Cities,Charles Dickens,1859,Novel klasik,Bahasa Inggris,PDF,ebook/a-tale-of-two-cities-charles-dickens.pdf,610,Novel berlatar Revolusi Prancis.
+E005,Crime and Punishment,Fyodor Dostoevsky,1866,Novel klasik,Bahasa Inggris,PDF,ebook/crime-and-punishment-fyodor-dostoevsky.pdf,1020,"Novel psikologis mengenai moralitas, rasa bersalah, dan konsekuensi tindakan."
+E006,Dracula,Bram Stoker,1897,Horor klasik,Bahasa Inggris,PDF,ebook/dracula-bram-stoker.pdf,727,Novel horor klasik tentang Count Dracula.
+E007,Frankenstein,Mary Shelley,1818,Fiksi ilmiah klasik,Bahasa Inggris,PDF,ebook/frankenstein-mary-shelley.pdf,384,"Novel klasik mengenai penciptaan, tanggung jawab, dan kemanusiaan."
+E008,Jane Eyre,Charlotte Brontë,1847,Novel klasik,Bahasa Inggris,PDF,ebook/jane-eyre-charlotte-bronte.pdf,944,"Novel tentang perjalanan hidup, kemandirian, dan relasi sosial Jane Eyre."
+E009,Pride and Prejudice,Jane Austen,1813,Novel klasik,Bahasa Inggris,PDF,ebook/pride-and-prejudice-jane-austen.pdf,640,"Novel yang mengangkat relasi sosial, keluarga, kelas, dan pernikahan."
+E010,The Great Gatsby,F. Scott Fitzgerald,1925,Novel klasik,Bahasa Inggris,PDF,ebook/the-great-gatsby-f-scott-fitzgerald.pdf,276,"Novel tentang ambisi, kekayaan, dan kehidupan sosial Amerika pada era 1920-an."
+E011,Rangkuman UGC,Naufal Zain Ramadhan,2026,Rangkuman,Bahasa Indonesia,PDF,ebook/Rangkuman_UGC.pdf,4,Rangkuman materi UGC tentang perpustakaan pintar (smart library) dan pemanfaatan teknologi digital.
+E012,The Picture of Dorian Gray,Oscar Wilde,1890,Novel klasik,Bahasa Inggris,PDF,ebook/the-picture-of-dorian-gray-oscar-wilde.pdf,396,"Novel mengenai kecantikan, moralitas, dan konsekuensi kehidupan hedonistik."
